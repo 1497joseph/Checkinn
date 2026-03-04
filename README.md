@@ -27,8 +27,8 @@ vercel
 ## 🔐 Default Admin Credentials
 | Field    | Value |
 |----------|-------|
-| Username | `root` |
-| Password | `1234` |
+| Username | `` |
+| Password | `` |
 
 > Admin can update username and password after first login via the profile.
 
